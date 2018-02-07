@@ -1,8 +1,12 @@
 body {
     
+<<<<<<< HEAD
     background-color: thistle;
     color: #333;
 }
 p {
     color: #666;
+=======
+    background-color: yellowgreen;
+>>>>>>> 08ddc64d008eec346a15253d93631f0a8d5ae482
 }
